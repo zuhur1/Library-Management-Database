@@ -48,5 +48,4 @@ Implemented database automation:
 - Prevent borrowing unavailable books
 - Prevent delinquent members from borrowing
 - Automatically update book status after returns
-- Flag members with excessive unpaid fines
-
+- Flag members with excessive unpaid fines 
